@@ -1,2 +1,18 @@
-# LeetcodePractice
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Practice Repository
+
+This repository is my space for practicing and storing LeetCode problem solutions. I’ve solved 200 problems in total across my LeetCode journey, and this repo contains a subset of those solutions as I continue to refine my skills in algorithms and data structures.
+
+## About
+- **Purpose**: To organize and showcase my LeetCode solutions while honing my coding abilities.
+- **Primary Language**: Java
+- **Total Problems Solved**: 200 (Note: Not all are in this repository; this is an ongoing collection.)
+- **Structure**: Solutions are saved in individual `.java` files, typically named by problem number or title.
+
+## Progress
+- **Problems in This Repo**: [Update this as you add, e.g., 20/200]
+- **Current Focus**: Arrays, Matrices, Strings, Dynamic Programming, Binary Trees
+- **Difficulty Breakdown** (across all 200 solved):
+  - Easy: ~106
+  - Medium: ~149
+  - Hard: ~15
+  
