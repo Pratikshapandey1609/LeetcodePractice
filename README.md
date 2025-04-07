@@ -16,3 +16,19 @@ This repository is my space for practicing and storing LeetCode problem solution
   - Medium: ~149
   - Hard: ~15
   
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+<!---LeetCode Topics End-->
