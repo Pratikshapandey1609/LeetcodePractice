@@ -23,12 +23,14 @@ This repository is my space for practicing and storing LeetCode problem solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -39,5 +41,10 @@ This repository is my space for practicing and storing LeetCode problem solution
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
