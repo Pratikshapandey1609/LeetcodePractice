@@ -50,6 +50,7 @@ This repository is my space for practicing and storing LeetCode problem solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0066-plus-one) |
 ## Stack
 |  |
 | ------- |
@@ -63,4 +64,8 @@ This repository is my space for practicing and storing LeetCode problem solution
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0647-palindromic-substrings) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
