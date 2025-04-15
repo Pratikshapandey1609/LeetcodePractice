@@ -25,6 +25,7 @@ This repository is my space for practicing and storing LeetCode problem solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -46,11 +47,13 @@ This repository is my space for practicing and storing LeetCode problem solution
 | ------- |
 | [0049-group-anagrams](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0066-plus-one) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +62,7 @@ This repository is my space for practicing and storing LeetCode problem solution
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -68,4 +72,8 @@ This repository is my space for practicing and storing LeetCode problem solution
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
