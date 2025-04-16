@@ -26,6 +26,7 @@ This repository is my space for practicing and storing LeetCode problem solution
 | [0049-group-anagrams](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -48,12 +49,14 @@ This repository is my space for practicing and storing LeetCode problem solution
 | [0049-group-anagrams](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +66,7 @@ This repository is my space for practicing and storing LeetCode problem solution
 | ------- |
 | [0344-reverse-string](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -76,4 +80,5 @@ This repository is my space for practicing and storing LeetCode problem solution
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
