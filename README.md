@@ -57,6 +57,7 @@ This repository is my space for practicing and storing LeetCode problem solution
 | [0066-plus-one](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0792-binary-search) |
 ## Stack
 |  |
 | ------- |
@@ -81,4 +82,5 @@ This repository is my space for practicing and storing LeetCode problem solution
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
