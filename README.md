@@ -50,6 +50,7 @@ This repository is my space for practicing and storing LeetCode problem solution
 | [0242-valid-anagram](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@ This repository is my space for practicing and storing LeetCode problem solution
 | [0349-intersection-of-two-arrays](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0792-binary-search) |
 ## Stack
 |  |
@@ -78,6 +80,7 @@ This repository is my space for practicing and storing LeetCode problem solution
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
