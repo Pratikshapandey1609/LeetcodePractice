@@ -9,7 +9,6 @@ This repository is my space for practicing and storing LeetCode problem solution
 - **Structure**: Solutions are saved in individual `.java` files, typically named by problem number or title.
 
 ## Progress
-- **Problems in This Repo**: [Update this as you add, e.g., 20/200]
 - **Current Focus**: Arrays, Matrices, Strings, Dynamic Programming, Binary Trees
 - **Difficulty Breakdown** (across all 200 solved):
   - Easy: ~106
