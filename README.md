@@ -44,6 +44,7 @@ This repository is my space for practicing and storing LeetCode problem solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ This repository is my space for practicing and storing LeetCode problem solution
 | [0485-max-consecutive-ones](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Pratikshapandey1609/LeetcodePractice/tree/master/0792-binary-search) |
 ## Stack
 |  |
