@@ -14,23 +14,45 @@
  * }
  */
 class Solution {
-    public List<Integer> preorderTraversal(TreeNode root){
+    //Recurssion Approach 
+    // public List<Integer> preorderTraversal(TreeNode root){
        
-       List<Integer> res = new ArrayList<>();;
-       preOrderTraversal(root,res);
+    //    List<Integer> res = new ArrayList<>();;
+    //    preOrderTraversal(root,res);
 
-       return res;
-    }
-
-    public static void preOrderTraversal(TreeNode root , List<Integer> res){
+    //    return res;
+    // }
+    // public static void preOrderTraversal(TreeNode root , List<Integer> res){
+    //     if(root == null){
+    //         return;
+    //     }
+    //     // System.out.println(root.data);
+    //     res.add(root.val);
+    //     preOrderTraversal(root.left , res);
+    //     preOrderTraversal(root.right , res);  
+    // }
+    
+    // Iterative Approach here 
+    public List<Integer> preorderTraversal(TreeNode root){
+        List<Integer> res = new ArrayList<>();
         if(root == null){
-            return;
+            return res;
         }
-        
-        // System.out.println(root.data);
-        res.add(root.val);
-        preOrderTraversal(root.left , res);
-        preOrderTraversal(root.right , res);
-        
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
+
+        while(!stack.isEmpty()){
+            TreeNode node = stack.pop();
+            res.add(node.val);
+            // right child first 
+            if(node.right != null){
+                stack.push(node.right);
+            }
+            // left child first 
+            if(node.left != null){
+                stack.push(node.left);
+            }
+        }
+        return res ;
     }
 }
