@@ -6,7 +6,8 @@ class Solution {
         // prev points to first character 
         int prev = s.charAt(0);
         int freq = 1;
-
+        
+        // creating a new String array using  O(n) space
         StringBuilder ans = new StringBuilder();
 
         // append first character in new string
