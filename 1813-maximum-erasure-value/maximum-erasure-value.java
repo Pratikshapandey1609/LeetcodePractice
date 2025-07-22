@@ -13,7 +13,7 @@ class Solution {
                 seen[nums[left]] = false;
                 ++left;
             }
-
+            // running sum of Array
             curSum += nums[right];
             seen[nums[right]] = true;
             if(curSum > maxSum){
