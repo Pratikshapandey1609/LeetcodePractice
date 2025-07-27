@@ -29,6 +29,7 @@ class Solution {
     //     return count;
     // }
 
+    // correct one 
     int count = 0;
     int left = 0;
     // int right = nums[i] + 1;
